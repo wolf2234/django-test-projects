@@ -9,4 +9,4 @@ This is a test project, or rather a site that publishes articles that talk about
   - Djoser
 
 ## **Databases:**
-    - SQLite3
+  - SQLite3
