@@ -7,6 +7,8 @@ This is a test project, or rather a site that publishes articles that talk about
   - Django-rest-framework
   - Simple-JWT
   - Djoser
+  - Debug_toolbar
+  - Captcha
 
 ## **Databases:**
   - SQLite3
